@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Local Sites/mysite/app/public/wp-content/themes/myblog"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "myblog"
+	}
+}
